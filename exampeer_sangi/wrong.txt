@@ -1,0 +1,1 @@
+hospital,restaurant,hotel,mall,shop,gym
